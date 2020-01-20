@@ -5,6 +5,8 @@ This project for EECE 5642 Data Visualization attempts to portray the important 
 
 The report for this project is included as `Data_Vis_Final_Project_Report.pdf`.
 
+The presentation for this project is available [HERE](https://docs.google.com/presentation/d/1rVWLiw2IluR6zUhaciOQr36Lbw_dN2-pkiC_BQHwzEQ/edit?usp=sharing).
+
 ### Neural Network
 The structure for the neural network used can be seen below:
 ![CNN structure](cnn.png)
